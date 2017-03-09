@@ -1,4 +1,4 @@
 #Download Image Plugin - Chrome
-Small Chrom extension for downloading images from the twitter modal.
+Small Chrome extension for downloading images from the twitter modal.
 
 ![Alt](https://media.giphy.com/media/l0Iy3heaZuxSun5du/source.gif "Demo")
