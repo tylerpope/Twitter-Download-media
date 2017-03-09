@@ -1,0 +1,7 @@
+#dl_twit_icon {
+  -webkit-transition: all 0.5s ease;
+  /* Safari */
+  transition: all 0.5s ease;
+  cursor: pointer; }
+  #dl_twit_icon:hover {
+    opacity: 0.5; }
