@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Twitter Download Media",
   "description": "This extension adds a button for quickly downloading twitter media",
-  "version": "1.0",
+  "version": "1.3",
   "web_accessible_resources":[
     "images/*.svg"
   ],
