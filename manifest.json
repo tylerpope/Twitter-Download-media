@@ -14,9 +14,6 @@
       "run_at": "document_end"
     }
   ],
-  "browser_action": {
-    "default_icon": "images/icon.png"
-  },
   "permissions": [
     "activeTab",
     "https://ajax.googleapis.com/"
